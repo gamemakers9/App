@@ -7,4 +7,4 @@ Blender3D.Plugin Blend4Web Play: https://www.blend4web.com/apps/code_snippets/co
 
 Unity3D.com WebGL Play: https://play.unity.com/u/tuta-gamemakers
 
-There are similar format based on jason with csharp dot.net 4 > c#
+There are similar formats based on json with csharp dot.net 4 > c#
